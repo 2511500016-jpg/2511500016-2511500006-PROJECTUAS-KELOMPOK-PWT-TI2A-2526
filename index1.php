@@ -182,6 +182,11 @@ with font-awesome or any other icon font library -->
                 <i class="far fa-circle nav-icon"></i>
                 <p>Pembayaran</p>
               </a>
+              </li>
+                <li class="nav-item">
+                <a href="index1.php?pageUAS=laporan_penjualan" class="nav-link">
+                <i class="far fa-circle nav-icon"></i>
+                <p>Laporan Penjualan</p>
             </ul>
           </li>
           <li class="nav-item">
